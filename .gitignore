@@ -1,0 +1,13 @@
+.DS_Store
+.git
+*.o
+*.a
+Mach
+IOKit
+Libkern
+Private
+Unsupported
+BSDKernel
+MACFramework
+stripSignature
+System*
